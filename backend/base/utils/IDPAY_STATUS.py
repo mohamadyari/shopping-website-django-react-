@@ -1,0 +1,16 @@
+IDPAY_STATUS = {
+    1:"Payment has not been made",
+    2:"Payment has failed",
+    3:"An error has occurred",
+    4:"Blocked payment", 
+    5:"Return to payer",
+    6:"Systemic backlash",
+    7:"Cancellation of payment", 
+    8:"Moved to the payment gateway", 
+    10:"Awaiting payment confirmation", 
+    100:"Payment is confirmed", 
+    101:"Payment has already been confirmed",
+    200:"It was deposited to the receiver",
+    500:"SERVER ERROR",
+    400:"USER ERROR",
+}
