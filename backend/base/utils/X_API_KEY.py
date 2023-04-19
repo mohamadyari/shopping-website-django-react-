@@ -1,1 +1,1 @@
-X_API_KEY= '9b3de229-987b-4912-a8e0-969a96cf266a'
+X_API_KEY= 'your api key : '
