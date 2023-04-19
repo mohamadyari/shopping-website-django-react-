@@ -5,7 +5,7 @@ run back =>
 4-run project  
       
 
-run front 
+run front    
 1-npm i  
 2-run front(npm start) 
 
