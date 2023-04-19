@@ -1,12 +1,12 @@
 # shopping-website-shopping-website-
 
-run back =>
-crete venv 
-activate venv
-install all pakege in requirements.txt
-run project
+#1-run back =>
+#2-crete venv 
+#3-activate venv
+#4-install all pakege in requirements.txt
+#5-run project
 
 
-run front
-npm i 
-run front(npm start)
+#un front
+#1-npm i 
+#2-run front(npm start)
