@@ -1,11 +1,11 @@
-#1-run back =>  
-#2-create venv  
-#3-activate venv    
-#4-install all package in requirements.txt  
-#5-run project  
+run back =>  
+1-create venv  
+2-activate venv    
+3-install all package in requirements.txt  
+4-run project  
       
 
-#un front 
-#1-npm i  
-#2-run front(npm start) 
+run front 
+1-npm i  
+2-run front(npm start) 
 
